@@ -1,6 +1,21 @@
 Project: Lemonade App - Starter Code
 ==================================
 
+App
+----
+
+<div align="center">
+<img align="center" alt="Run-Tests-Gif" height="500" src="https://github.com/knludi/android-basics-kotlin-lemonade-app/blob/main/README/lemonade-app.gif">
+</div>
+
+Tests
+----
+
+<div align="center">
+<img align="center" alt="Run-Tests-Gif" height="500" src="https://github.com/knludi/android-basics-kotlin-lemonade-app/blob/main/README/lemonade-app-tests.gif">
+</div>
+
+
 Starter code for the first independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
 Introduction
@@ -25,3 +40,4 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
